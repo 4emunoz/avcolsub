@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://aula-virtual.colsubsidio.com",
+    "siteurl": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
